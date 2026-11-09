@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "name": "三坐标1",
+      "spec": "123",
+      "part_no": "123"
+    },
+    {
+      "name": "卡尺",
+      "spec": "",
+      "part_no": ""
+    },
+    {
+      "name": "szb1",
+      "spec": "13",
+      "part_no": "123"
+    },
+    {
+      "name": "外径千分尺",
+      "spec": "",
+      "part_no": ""
+    },
+    {
+      "name": "塞规",
+      "spec": "",
+      "part_no": ""
+    },
+    {
+      "name": "三坐标",
+      "spec": "",
+      "part_no": ""
+    },
+    {
+      "name": "粗糙度仪",
+      "spec": "",
+      "part_no": ""
+    },
+    {
+      "name": "投影仪",
+      "spec": "",
+      "part_no": ""
+    },
+    {
+      "name": "螺纹塞规",
+      "spec": "",
+      "part_no": ""
+    },
+    {
+      "name": "塞规",
+      "spec": "rdfg",
+      "part_no": "dgd"
+    }
+  ]
+}

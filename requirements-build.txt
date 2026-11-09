@@ -1,0 +1,5 @@
+pyinstaller>=6.16
+opencv-python>=4.12
+numpy>=2.3
+pandas>=2.3
+pywin32>=311; sys_platform == "win32"
